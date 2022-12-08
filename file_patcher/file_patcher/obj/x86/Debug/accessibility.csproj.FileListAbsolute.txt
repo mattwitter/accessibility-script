@@ -1,0 +1,10 @@
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\obj\x86\Debug\accessibility.csproj.AssemblyReference.cache
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\obj\x86\Debug\accessibility.csproj.CoreCompileInputs.cache
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\bin\Debug\accessibility.exe
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\bin\Debug\accessibility.pdb
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\obj\x86\Debug\accessibility.csproj.CopyComplete
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\obj\x86\Debug\accessibility.exe
+C:\Users\mattw\Desktop\code\file_patcher\file_patcher\obj\x86\Debug\accessibility.pdb
